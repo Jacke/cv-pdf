@@ -1,0 +1,20 @@
+# Secrets / local credentials
+google-oauth-client.json
+google-oauth-client.*.json
+google-token.json
+google-token.*.json
+.secrets/
+.env
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+
+# OS / editor
+.DS_Store
+
+# Local artifacts
+.tmp/
+__pycache__/
+*.pyc
