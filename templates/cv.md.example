@@ -1,0 +1,31 @@
+# Summary
+
+Senior backend engineer with experience in distributed systems and high-load services.
+
+## Skills
+
+### Backend
+- Go, Java, PostgreSQL, Redis
+- gRPC/REST APIs, microservices
+- Profiling and performance tuning
+
+### Infrastructure
+- Kubernetes, Docker, Terraform
+- CI/CD, observability, logging
+
+## Experience
+
+### Mvideo (06/2022 - Present) - Senior Go Developer
+*Leading retail company (electronics and appliances).*
+- Led development of an internal platform using Go microservices.
+- Built scalable backend with gRPC and PostgreSQL.
+- Implemented ETL pipelines for SAP data sync.
+*Tech stack: Go, PostgreSQL, Docker, Kubernetes, Redis, Kafka.*
+
+## Publications
+
+- Title of publication, Journal, 2024
+
+## Education
+
+2011 - 2017 - Saint Petersburg State University - M.Sc. in Computer Science

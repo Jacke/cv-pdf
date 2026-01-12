@@ -1,0 +1,161 @@
+Stanislav Sobolev
+Senior Go Developer (Scala/Java background)
+
+Contact Information
+Email: iamjacke@gmail.com
+Github: github.com/Jacke
+Phone: +7 (XXX) XXX-XX-XX
+Location: Moscow, Russia
+Timezone: GMT+3
+Availability: Remote/Full-time, Remote/Part-time, Hourly
+Legal entity: UK LLC, Latvian LLC, Deel/Payoneer
+English: C1
+
+Summary
+Senior Go developer with 8+ years of backend development experience building high-performance distributed systems. Started career with JVM languages (Scala, Kotlin, Java) and transitioned to Go in 2019, now specializing in Go for the past 5+ years. Expert in designing and implementing scalable microservices architectures using Go, handling 100k+ concurrent users with sub-millisecond latency. Proven track record of optimizing system performance, reducing processing time by 98% and infrastructure costs by 50% through efficient Go-based solutions. Experienced in leading development teams and mentoring engineers while delivering production-ready systems for retail, fintech, and high-load messaging platforms.
+
+About Me
+Backend developer specializing in Go with 8+ years of commercial development experience. Strive to develop software according to clean architecture principles, adhering to SOLID, DRY, KISS, YAGNI. Able to think systematically, quickly understand business processes, and form a comprehensive understanding of products and their challenges to propose optimal technical solutions. Experienced in integrating into teams, mentoring junior developers, and maintaining effective communication with stakeholders across technical and business domains.
+
+Skills
+
+Go (Back-End)
+Expert in building high-performance distributed systems and microservices with Go.
+Designed and implemented scalable architectures handling 100k+ concurrent users with sub-millisecond latency.
+Specialized in performance optimization through efficient goroutine management, memory pooling, and profiling, reducing processing time by 98%.
+Experienced in leading teams and architecting production systems using Go, Kubernetes, gRPC, Protocol Buffers, and distributed data processing.
+Proficient in Go ecosystem: goroutines, channels, context, testing, benchmarking, and production debugging with pprof.
+
+Databases & Message Queues
+PostgreSQL, Redis, Kafka, RabbitMQ, NATS. Experience with high-load data processing, replication, sharding, and message-driven architectures.
+
+Infrastructure & DevOps
+Kubernetes (k8s), Docker, Prometheus, Grafana. Cloud-native architecture design, CI/CD pipelines, monitoring, and observability.
+
+Key Skills
+Go, Golang, Scala, Kotlin, Java, PostgreSQL, Git, Docker, Redis, Kafka, Clean Architecture, TDD, Kubernetes, Postgres, gRPC, REST, REST API, SQL, MongoDB, DDD, Grafana, Clickhouse, Elasticsearch, Prometheus, SOLID, RabbitMQ, NATS, Protocol Buffers, Protobuf, WebSocket, JWT, OAuth, Microservices, CI/CD, GitLab CI, GitHub Actions, Helm, Terraform, Akka, ZIO, Spring Boot, Apache Spark, Thrift, Hibernate
+
+Experience
+
+Mvideo (06/2022 – Present) 2.5 years
+Mvideo is a leading retail company specializing in electronics and household appliances.
+https://mvideo.ru
+
+Senior Go Developer / Full-time
+
+Led development of enterprise platform from scratch using Go microservices, integrating 40,000 stores and 160,000 users, resulting in unified bonus management system processing 500k+ transactions daily.
+
+Architected scalable Go-based backend handling 2M+ requests/day using gRPC and PostgreSQL, achieving 95ms p99 latency through connection pooling and query optimization.
+
+Implemented ETL pipelines in Go processing 10M+ SAP records daily with 99.9% data integrity, reducing synchronization time from 4 hours to 45 minutes through concurrent processing and batching.
+
+Built real-time KPI dashboard backend in Go with Redis caching, reducing dashboard load time from 8 seconds to 320ms and supporting 5,000 concurrent users.
+
+Integrated 12 third-party APIs using Go's concurrency patterns (goroutines and channels), achieving 99.95% uptime and reducing integration development time by 60%.
+
+Optimized Go services through pprof profiling and benchmarking, reducing memory consumption by 42% and improving throughput from 800 to 1,280 RPS per instance.
+
+Technologies: Go, PostgreSQL, Docker, gRPC, REST API, Kubernetes (k8s), Redis, Kafka, SAP, Prometheus, Grafana
+
+EEG (07/2021 — 06/2022) 1 year
+Esports Entertainment Group is a full-stack esports and online gambling company fuelled by the growth of video gaming and the ascendance of esports with new generations
+https://www.eegpartners.com/
+
+Senior Go Developer / Full-time
+
+Developed production-ready gambling platform using Go microservices, implementing middleware with circuit breakers and retry logic, reducing production incidents by 70% and decreasing MTTR from 45 to 12 minutes.
+
+Redesigned user registration flow using Go services with PostgreSQL and Redis, reducing registration time from 10 to 1 minute through async processing and database optimization, handling 10,000+ daily registrations.
+
+Implemented distributed load balancer in Go with intelligent routing algorithms, optimizing critical path latency from 2.5 seconds to 28ms through connection pooling and request coalescing.
+
+Integrated ML-based fraud detection via Go REST APIs with 150ms response time SLA, achieving 92% fraud prevention rate and reducing manual review workload by 85%.
+
+Designed cloud-native infrastructure on Kubernetes using Go services with horizontal pod autoscaling, reducing infrastructure costs by 35% through efficient resource utilization.
+
+Technologies: Go, gRPC, Kubernetes (k8s), PostgreSQL, Redis, NATS, Prometheus, Grafana, Docker
+
+Tawasal (02/2020 — 06/2021) 1.5 years
+Popular messenger in UAE. Super app for renting houses, ordering food, and buying tickets
+https://tawasal.ae/
+
+Senior Go Developer / Full-time
+
+Architected high-load messenger infrastructure in Go handling 100,000+ concurrent WebSocket connections with only 5 instances, leveraging goroutines and efficient memory management for optimal resource utilization.
+
+Developed service-oriented architecture (SOA) in Go with 15 microservices communicating via gRPC, reducing inter-service integration time from 4 weeks to 1.5 weeks through standardized interfaces and code generation.
+
+Implemented real-time message delivery system in Go using NATS with at-least-once delivery guarantees, achieving 99.99% delivery rate and sub-50ms p95 latency for 2M+ daily messages.
+
+Designed cloud-native architecture with Go microservices on Kubernetes across 3 regions, improving system scalability by 40% and reducing infrastructure costs by 50% through efficient resource allocation.
+
+Mentored 4 engineers on Go best practices including goroutine management, error handling, and testing strategies, conducted 50+ code reviews, and established team coding standards.
+
+Technologies: Go, gRPC, WebSocket, Kubernetes (k8s), PostgreSQL, Redis, RabbitMQ, NATS, Prometheus
+
+Yzer (08/2019 — 01/2020) 6 months
+Litigation-closed viral messenger in UAE with unique automatic message translation features
+https://appadvice.com/app/yzerchat-chat-and-video-calls/1398177737
+
+Senior Go Consultant / Part-time
+
+Redesigned critical infrastructure using Go microservices, reducing p99 latency from 480ms to 58ms through custom memory pooling, optimized goroutine scheduling, and efficient data structures.
+
+Architected scalable Go-based system handling 56,000+ DAU with 99.9% uptime, optimizing deployment costs by 40% through efficient containerization and resource tuning, extending project runway by 3 months.
+
+Implemented high-performance request handling in Go with intelligent load distribution and circuit breakers, reducing system bottlenecks by 52% and achieving 3,200 RPS per instance.
+
+Optimized cloud architecture by implementing Go-based edge caching and CDN integration, improving average response time by 95ms and reducing server count from 40 to 4 instances.
+
+Technologies: Go, gRPC, Protocol Buffers, Redis, Docker, Prometheus, PostgreSQL
+
+Bolti (10/2018 — 07/2019) 10 months
+Messenger / Chat Bot Platform
+
+Senior Scala Developer / Full-time
+
+Led development and reverse-engineering of Telegram's MTProto protocol using Scala, implementing 95% of Telegram's core functionality through debugging critical protocol points and building essential backend features for multiple device targets.
+
+Architected high-efficiency system in Scala serving 15,000 daily active users on a single server through optimized resource management and efficient service design.
+
+Implemented scalable message delivery infrastructure using Scala and Akka, ensuring full functionality and elevated scalability for production deployment.
+
+Technologies: Scala, ZIO, Akka, C++, Kubernetes (k8s), Protocol Buffers
+
+Buro (01/2017 — 09/2018) 1.5 years
+Software as a service for incorporation C-corp and LLC. Fast and secure, fully remote user experience with bank integration
+https://buro.app
+
+Co-founder, CTO / Full-time
+
+Built encrypted messaging tunnel to banks using Kotlin for secure KYC application transfers, processing 500+ incorporation requests daily with end-to-end encryption and compliance with banking regulations.
+
+Developed fraud detection system in Java reducing document validation time from 2 hours to 5 minutes through automated verification algorithms, improving efficiency by 96% and accuracy by 40%.
+
+Recruited and mentored team of 7 developers, establishing development processes and code standards, resulting in 35% increase in project completion speed and improved code quality.
+
+Architected distributed system using Kafka and Spring Boot handling high-volume data processing for incorporation workflows, ensuring 99.9% uptime and sub-second response times.
+
+Technologies: Kotlin, Java, Spring Boot, Apache Spark, Thrift, Kafka, PostgreSQL, Redis
+
+Minority (12/2015 — 12/2016) 1 year
+Workflow management platform that helps people describe their daily activities and automate routine tasks
+https://minorityapp.com/
+
+Co-founder, CEO, Full-stack Developer / Full-time
+
+Conceptualized and built MVP for workflow automation platform using Java and Spring, conducting market research that identified business opportunities resulting in 30% potential revenue increase and key strategic partnerships.
+
+Developed prototype and launched marketing strategy, securing acceptance into startup accelerator program and winning $10,000 grant plus Best SaaS Award through effective product positioning.
+
+Established agile development cycle and customer feedback process, iterating on product features based on user input and achieving product-market fit validation.
+
+Implemented core platform features using Java, Spring, Hibernate, and PostgreSQL, supporting task automation workflows for early adopters.
+
+Technologies: Java, Spring, Hibernate, PostgreSQL, Redis
+
+Education
+09/2011 — 06/2017 Saint Petersburg State University (SPbU) M.Sc. in Computer Science
+
+Hobbies & Community
+Organizing IT networking events, most recently hosting an event for 60+ attendees. Providing technical infrastructure for events including chat bots, user profiles, and referral recommendation systems for IT professionals.
