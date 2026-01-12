@@ -6,9 +6,11 @@
   <img src="./logo.png" alt="CV Apply Logo" width="720"/>
 </p>
 
-**English:** Times change, and we change with them.
-**Русский:** Времена меняются, и мы меняемся вместе с ними.
-**한국어:** 시간은 흐르고 우리도 그 속에서 변해간다.
+> **English:** Times change, and we change with them.
+>
+> **Русский:** Времена меняются, и мы меняемся вместе с ними.
+>
+> **한국어:** 시간은 흐르고 우리도 그 속에서 변해간다.
 
 ---
 
